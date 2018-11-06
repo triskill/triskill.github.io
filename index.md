@@ -16,8 +16,10 @@ var jmeno = "Robert";
 /// logické:
 var jablkoJeOvoce = true;
 var zebraJeOvoce = false;
-// číselné:
+// celočíselné:
 var x = 42;
+// s plovoucí desetinou čárkou:
+var avaAPul = 2.5;
 // řetězce:
 var jmeno = "Mnislav Zelený";
 // pole:

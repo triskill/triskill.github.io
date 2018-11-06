@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Game-zero
+Jednoduchá hra vytvářená společně s dětmi na kroužku programování DDM Tábor.
+* [Hrát rhu](https://triskill.github.io/Game-Zero/)
+* [Stáhnout si zdrojové soubory](https://github.com/triskill/Game-Zero/archive/master.zip)
 
-You can use the [editor on GitHub](https://github.com/triskill/triskill.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## užitečné odkazy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/triskill/triskill.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Phaser](https://phaser.io/) - herní engine pro 2D webové hry
+* [w3 js tutorial](https://www.w3schools.com/js/default.asp) - příklady použití JavaScriptu encyklopedickou formou
+* [CodePen](https://codepen.io/) - online editor kódu a knihovna zajímavých projektů v html, js a css
+* [atom](https://atom.io/) - editor který používáme

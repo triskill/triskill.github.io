@@ -37,8 +37,9 @@ if(x > 10){
 }
 ```
 ### cykly
+#### for cyklus
 ```javascript
-for(var i = 0; i<5){
+for(var i = 0; i<5; i++){
   console.log("i = " + i);
 }
 ```
@@ -50,7 +51,7 @@ i = 2
 i = 3
 i = 4
 ```
-### 
+
 ## užitečné odkazy
 
 * [Phaser](https://phaser.io/) - herní engine pro 2D webové hry

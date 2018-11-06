@@ -1,6 +1,6 @@
 ## Game-zero
 Jednoduchá hra vytvářená společně s dětmi na kroužku programování DDM Tábor.
-* [Hrát rhu](https://triskill.github.io/Game-Zero/)
+* [Hrát hru](https://triskill.github.io/Game-Zero/)
 * [Stáhnout si zdrojové soubory](https://github.com/triskill/Game-Zero/archive/master.zip)
 
 ## základní syntaxe

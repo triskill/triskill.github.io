@@ -3,7 +3,7 @@ Jednoduchá hra vytvářená společně s dětmi na kroužku programování DDM 
 * [Hrát hru](https://triskill.github.io/Game-Zero/)
 * [Stáhnout si zdrojové soubory](https://github.com/triskill/Game-Zero/archive/master.zip)
 
-## základní syntaxe
+## základní syntaxe JacaScriptu
 
 ### proměnné a datové tipy
 

@@ -19,7 +19,7 @@ var zebraJeOvoce = false;
 // celočíselné:
 var x = 42;
 // s plovoucí desetinou čárkou:
-var avaAPul = 2.5;
+var dvaAPul = 2.5;
 // řetězce:
 var jmeno = "Mnislav Zelený";
 // pole:

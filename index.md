@@ -5,6 +5,12 @@ Jednoduchá hra vytvářená společně s dětmi na kroužku programování DDM 
 
 ## základní syntaxe JacaScriptu
 
+Doporučujitento video tutoriál:
+
+[JavaScript Tutorial](https://www.youtube.com/playlist?list=PLYWX-sH544Qj9MxhG4IOlk_vOCnSGiqpj)
+
+Nenásilnou formou podává úplné základy JavaScriptu.
+
 ### proměnné a datové tipy
 
 deklarace proměnné a přiřazení hodnoty:

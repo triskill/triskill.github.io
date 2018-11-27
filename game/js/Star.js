@@ -11,6 +11,7 @@ class Star{
       console.log("hrdina ziskal bod");
       this.obrazek.x = -100;
       this.game.ziskanBod();
+      this.game.bodZvuk.play();
       if(this.game.pocetStars == this.game.body){
         this.game.vyhra();
       }

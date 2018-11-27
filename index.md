@@ -1,8 +1,8 @@
 ## Game-zero
 Jednoduchá hra vytvářená společně s dětmi na kroužku programování DDM Tábor.
 * [Hrát hru](https://triskill.github.io/Game-Zero/)
+* [Hrát novější verzi](http://triskill/github.io/game)
 * [Stáhnout si zdrojové soubory](https://github.com/triskill/Game-Zero/archive/master.zip)
-
 ## základní syntaxe JacaScriptu
 
 Doporučujitento video tutoriál:

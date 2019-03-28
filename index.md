@@ -10,7 +10,7 @@ Doporučujitento video tutoriál:
 
 Nenásilnou formou podává úplné základy JavaScriptu.
 
-### proměnné a datové tipy
+### proměnné a datové typy
 
 deklarace proměnné a přiřazení hodnoty:
 ```javascript

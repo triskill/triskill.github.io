@@ -4,7 +4,7 @@ Jednoduchá hra vytvářená společně s dětmi na kroužku programování DDM 
 * [Stáhnout si zdrojové soubory](https://github.com/triskill/Game-Zero/archive/master.zip)
 ## základní syntaxe JavaScriptu
 
-Doporučujitento video tutoriál:
+Doporučuji tento video tutoriál:
 
 [JavaScript Tutorial](https://www.youtube.com/playlist?list=PLYWX-sH544Qj9MxhG4IOlk_vOCnSGiqpj)
 

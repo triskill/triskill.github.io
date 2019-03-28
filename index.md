@@ -1,7 +1,6 @@
 ## Game-zero
 Jednoduchá hra vytvářená společně s dětmi na kroužku programování DDM Tábor.
 * [Hrát hru](https://triskill.github.io/Game-Zero/)
-* [Hrát novější verzi](http://triskill.github.io/game)
 * [Stáhnout si zdrojové soubory](https://github.com/triskill/Game-Zero/archive/master.zip)
 ## základní syntaxe JavaScriptu
 
@@ -43,8 +42,32 @@ var auto = {
 if(x > 10){
   console.log("x je vetsi nez 10");
 }
+
+// nebo
+
+if(vek >= 18){
+  console.log("jsem plnoletý");
+}else{
+  console.log("nejsem plnoletý");
+}
 ```
 ### cykly
+#### while cyklus
+```javascript
+var i = 0;
+while(i < 5){
+  console.log("i = " + i++);
+}
+```
+Cyklus vypíše do console:
+```
+i = 0
+i = 1
+i = 2
+i = 3
+i = 4
+```
+
 #### for cyklus
 ```javascript
 for(var i = 0; i < 5; i++){
